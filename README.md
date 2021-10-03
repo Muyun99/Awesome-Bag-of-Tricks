@@ -2,15 +2,14 @@
 
 ## Table of Contents 🍕
 
-- [Image Classification](#Image Classification)
-
-- [Object Detection](#Object Detection)
-- [ReId / Image Retrieval](ReId / Image Retrieval)
-- [Adversarial Training](Adversarial Training)
-- [Optical Character Recognition](Optical Character Recognition)
-- [Adversarial Training](Adversarial Training)
-- [Text Classification](Text Classification)
-- [Graph Neural Networks](Graph Neural Networks)
+- [Image Classification](#image-classification)
+- [Object Detection](#object-detection)
+- [ReId / Image Retrieval](#ReId / Image-Retrieval)
+- [Adversarial Training](#adversarial-training)
+- [Optical Character Recognition](#optical-character-recognition)
+- [Adversarial Training](#adversarial-training)
+- [Text Classification](#text-classification)
+- [Graph Neural Networks](#graph-neural-networks)
 
 
 
@@ -55,7 +54,7 @@
 
 ### ReId / Image Retrieval
 
-**CVPRW 2019 | Bag of Tricks and A Strong Baseline for Deep Person Re-identification. ** 
+**CVPRW 2019 | Bag of Tricks and A Strong Baseline for Deep Person Re-identification.**
 
 - Paper: https://arxiv.org/abs/1903.07071
 - Slides: https://drive.google.com/open?id=1h9SgdJenvfoNp9PTUxPiz5_K5HFCho-V
