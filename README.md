@@ -1,5 +1,21 @@
 # Awesome-Bag-of-Tricks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Table of Contents 🍕
+
+- [Image Classification](#Image Classification)
+
+- [Object Detection](#Object Detection)
+- [ReId / Image Retrieval](ReId / Image Retrieval)
+- [Adversarial Training](Adversarial Training)
+- [Optical Character Recognition](Optical Character Recognition)
+- [Adversarial Training](Adversarial Training)
+- [Text Classification](Text Classification)
+- [Graph Neural Networks](Graph Neural Networks)
+
+
+
+## Papers & Code 👀
+
 ### Image Classification
 
 **CVPR 2019 | Bag of Tricks for Image Classification with Convolutional Neural Networks.**
