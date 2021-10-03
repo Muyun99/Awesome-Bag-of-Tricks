@@ -4,7 +4,7 @@
 
 - [Image Classification](#image-classification)
 - [Object Detection](#object-detection)
-- [ReId / Image Retrieval](#ReId / Image-Retrieval)
+- [ReId / Image Retrieval](#reId-or-image-retrieval)
 - [Adversarial Training](#adversarial-training)
 - [Optical Character Recognition](#optical-character-recognition)
 - [Adversarial Training](#adversarial-training)
@@ -52,7 +52,7 @@
 
 
 
-### ReId / Image Retrieval
+### ReId or Image Retrieval
 
 **CVPRW 2019 | Bag of Tricks and A Strong Baseline for Deep Person Re-identification.**
 
