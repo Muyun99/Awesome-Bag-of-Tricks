@@ -33,6 +33,11 @@
 - Paper: https://cs.nju.edu.cn/wujx/paper/AAAI2021_Tricks.pdf
 - Official Code: https://github.com/zhangyongshun/BagofTricks-LT
 
+**arXiv 2021 | ResNet strikes back: An improved training procedure in timm.**
+
+- Paper: https://arxiv.org/abs/2110.00476
+- Official Code: https://github.com/rwightman/pytorch-image-models
+
 
 
 ### Object Detection 
