@@ -38,6 +38,11 @@
 - Paper: https://arxiv.org/abs/2110.00476
 - Official Code: https://github.com/rwightman/pytorch-image-models
 
+**arXiv 2022 | Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results**
+
+- Paper: https://arxiv.org/abs/2204.03475
+- Official Code: https://arxiv.org/abs/2204.03475
+
 
 
 ### Object Detection 
