@@ -41,7 +41,7 @@
 **arXiv 2022 | Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results**
 
 - Paper: https://arxiv.org/abs/2204.03475
-- Official Code: https://arxiv.org/abs/2204.03475
+- Official Code: https://github.com/alibaba-miil/solving_imagenet
 
 **arXiv 2022 | Better plain ViT baselines for ImageNet-1k**
 
