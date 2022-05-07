@@ -43,6 +43,11 @@
 - Paper: https://arxiv.org/abs/2204.03475
 - Official Code: https://arxiv.org/abs/2204.03475
 
+**arXiv 2022 | Better plain ViT baselines for ImageNet-1k**
+
+- Paper: https://arxiv.org/abs/2205.01580
+- Official Code: https://github.com/google-research/big_vision
+
 
 
 ### Object Detection 
