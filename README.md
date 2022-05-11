@@ -43,6 +43,11 @@
 - Paper: https://arxiv.org/abs/2204.03475
 - Official Code: https://github.com/alibaba-miil/solving_imagenet
 
+**arXiv 2022 | DeiT III: Revenge of the ViT**
+
+- Paper: https://arxiv.org/abs/2204.07118
+- Official Code: https://github.com/facebookresearch/deit/blob/main/README_revenge.md
+
 **arXiv 2022 | Better plain ViT baselines for ImageNet-1k**
 
 - Paper: https://arxiv.org/abs/2205.01580
